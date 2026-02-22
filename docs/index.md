@@ -8,3 +8,5 @@
 * [Прочие словари для Yomitan](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#mandarin-chinese) (англоязычный) -- словари частотности, англоязычные, японоязычные и моноязычные (китайские) словари
 
 Так же у нас есть [страничка по японскому языку](japanese.md).
+
+До админа можно достучаться [здесь](https://t.me/acattru).
