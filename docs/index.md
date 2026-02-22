@@ -9,6 +9,4 @@
 
 Так же у нас есть [страничка по японскому языку](japanese.md).
 
-До админа можно достучаться [здесь](https://t.me/acattru).
-
-А еще у админа есть уютный [Telegram канал](https://t.me/slesarworkshop).
+До админа можно достучаться [здесь](https://t.me/acattru), а еще у админа есть уютный [Telegram канал](https://t.me/slesarworkshop).
